@@ -12,3 +12,4 @@ pydub
 langchain-ollama
 soundfile
 PyAudio
+audio_recorder_streamlit
